@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ForumActivity"
+    android:background="@color/smokyWhite">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/view_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/GrayDate">
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipelayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/postsview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"></androidx.recyclerview.widget.RecyclerView>
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:id="@+id/tool"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@+id/view_layout"
+       android:layout_marginTop="-50dp"
+        android:gravity="center"
+
+
+
+        >
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/gobackpng"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="60dp"
+
+            android:id="@+id/goBack"
+            ></ImageView>
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/kindpng_207806"
+            android:layout_gravity="center"
+            android:layout_marginLeft="70dp"
+
+            android:id="@+id/addpost"
+            android:layout_marginTop="0dp"
+
+            ></ImageView>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/profilepng"
+            android:layout_marginLeft="120dp"
+
+
+            android:layout_marginTop="0dp"
+            android:id="@+id/profile"></de.hdodenhof.circleimageview.CircleImageView>
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

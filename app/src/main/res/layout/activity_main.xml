@@ -1,0 +1,168 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/smokyWhite">
+   <com.google.android.material.appbar.AppBarLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:background="@color/smokyWhite"
+       android:id="@+id/bar">
+
+
+
+       <com.google.android.material.appbar.CollapsingToolbarLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           app:contentScrim="@color/colorPrimaryDark"
+           app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
+           app:title="@string/dashboard_title"
+           app:expandedTitleTextAppearance="@style/expandedBarTextStyle"
+
+           >
+
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="300dp"
+               android:background="@drawable/gradient_collaps_bar"
+               android:paddingHorizontal="20dp"
+               android:orientation="vertical"
+               android:id="@+id/toolbar"
+               >
+
+               <de.hdodenhof.circleimageview.CircleImageView
+                   android:layout_width="120dp"
+                   android:layout_height="120dp"
+                   android:src="@drawable/ic_baseline_face_24"
+                   android:layout_marginTop="60dp"
+                   android:layout_gravity="center"
+                   android:id="@+id/go_to_profile"
+                   app:civ_border_width="5dp"
+                   app:civ_border_color="@color/white"
+
+                   ></de.hdodenhof.circleimageview.CircleImageView>
+               <TextView
+                   android:layout_marginTop="10dp"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:text="Welcome"
+                   android:textColor="@color/smokyWhite"
+                   android:textSize="20sp"
+                   android:gravity="center"
+                   android:textStyle="bold"
+
+                   >
+
+               </TextView>
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:orientation="horizontal"
+                   android:layout_gravity="center"
+                   >
+               <EditText
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="20dp"
+                   android:background="@drawable/search_bar_background"
+                   android:height="50dp"
+                   android:textColor="@color/white"
+                   android:hint="@string/search_bar_hint"
+                   android:textColorHint="@color/white"
+                   android:paddingLeft="20sp"
+
+
+
+                   android:paddingRight="5dp"
+                   android:id="@+id/search_box"
+                   >
+
+               </EditText>
+
+                   <ImageView
+                       android:id="@+id/searchbtn"
+                       android:layout_width="45dp"
+                       android:layout_height="45dp"
+                       android:layout_gravity="center"
+                       android:layout_marginLeft="-50dp"
+                       android:layout_marginTop="10dp"
+                       android:src="@drawable/search_btn"></ImageView>
+
+
+               </LinearLayout>
+
+
+
+
+           </LinearLayout>
+           <androidx.appcompat.widget.Toolbar
+               android:layout_width="match_parent"
+               android:layout_height="?attr/actionBarSize"
+
+               app:titleTextColor="@color/white"
+
+
+
+               >
+
+
+
+
+           </androidx.appcompat.widget.Toolbar>
+
+           <ImageView
+               android:layout_width="35dp"
+               android:layout_height="35dp"
+               android:src="@drawable/ic_baseline_forum_24"
+               android:layout_marginHorizontal="10dp"
+               android:layout_marginTop="8dp"
+               android:id="@+id/GoToForum"></ImageView>
+           <ImageView
+               android:layout_width="35dp"
+               android:layout_height="35dp"
+               android:layout_marginHorizontal="70dp"
+               android:src="@drawable/asset1"
+               android:layout_marginTop="8dp"
+               android:id="@+id/Department_act"></ImageView>
+           <ImageView
+               android:layout_width="50dp"
+               android:layout_height="50dp"
+               android:src="@drawable/ic_baseline_add_24"
+               android:layout_marginLeft="320dp"
+               android:layout_marginTop="5dp"
+               android:id="@+id/adminAddpostLayout"></ImageView>
+
+
+
+       </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+   </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior"
+        android:id="@+id/refreshlayout">
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/events_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+
+
+
+
+        >
+
+
+    </androidx.recyclerview.widget.RecyclerView>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

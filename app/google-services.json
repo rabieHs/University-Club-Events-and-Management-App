@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837320155915",
+    "project_id": "vfxmobdb",
+    "storage_bucket": "vfxmobdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837320155915:android:fd343253ecdb44128db80e",
+        "android_client_info": {
+          "package_name": "com.vfxf.fvxmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837320155915-f1j0v5pknrv5p4h1ag6gudnvqai3o61t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAagQPs4w-KIUTOOfCxmmilRgJ-hQFqe3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837320155915-f1j0v5pknrv5p4h1ag6gudnvqai3o61t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

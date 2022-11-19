@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/banner_background.xml" value="0.159375" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/bannerbg_gradient.xml" value="0.2625" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/bar.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/bg_receiver.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/bg_receiver_btm.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/bg_round.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/border_blue_button.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/cancel_btn.xml" value="0.24666666666666667" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/comment.xml" value="0.20052083333333334" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/comment_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/count_background.xml" value="0.25277777777777777" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/custom_app_bar_background.xml" value="0.24166666666666667" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/delete_bg.xml" value="0.19895833333333332" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/edittext.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/edittext_background.xml" value="0.17708333333333334" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/gradient_collaps_bar.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/gradient_toolbar.xml" value="0.2625" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/grey_button_radius.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_add.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_add_user.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.15416666666666667" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.159375" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.24666666666666667" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.1625" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_face_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_forum_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_insert_comment_24.xml" value="0.22870370370370371" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.25277777777777777" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_bell.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_block.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_cancel.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_chat_btom.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_chat_wt.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_check.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_comment.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_edit.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_eye_bt.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_foto.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_home.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_left.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_like.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_liked.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_link.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_lock.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_lock_bt.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_logout.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_more.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_more_post.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_next.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_one.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_outline_account_circle_24.xml" value="0.159375" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_outline_local_phone_24.xml" value="0.159375" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_outline_phone_24.xml" value="0.159375" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_phone.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_photo.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_play.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_play_circle.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_plus.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_post.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_power.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_save.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_search.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_sender.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_share.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_skip_back.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_skip_forward.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_three.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_trash.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_trash_bt.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_trash_ctm.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_two.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_user.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_user_btom.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/ic_username_edit.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/indicator_default.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/indicator_selected.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/indicator_selector.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/like.xml" value="0.22870370370370371" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/message_edittext.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/not_found.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/picture_loading_placeholder.xml" value="0.19270833333333334" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/post_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/post_fragment_background2.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/post_fragments_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/post_item_background3.xml" value="0.26205128205128203" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/post_selector_bg.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/post_textview_bg.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/profile_image_background.xml" value="0.8875" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/rview.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/search_bar_background.xml" value="0.24166666666666667" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/search_btn.xml" value="0.24166666666666667" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/search_edittext.xml" value="0.22407407407407406" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/sscreen_gradient.xml" value="0.2625" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/time_background.xml" value="0.14322916666666666" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/drawable/userdp.xml" value="0.2625" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_add_post.xml" value="0.2" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_add_profile_pic.xml" value="0.22146739130434784" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_admin_add_event_acitivity.xml" value="0.2" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_departments.xml" value="0.136" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_edit_profile.xml" value="0.22146739130434784" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_event_page.xml" value="0.2" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_finance.xml" value="0.176" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_forum.xml" value="0.264" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_marketing.xml" value="0.2078804347826087" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_post_detail.xml" value="0.176" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_project_mangment.xml" value="0.2078804347826087" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_secretary.xml" value="0.2078804347826087" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_select_department.xml" value="0.26055045871559634" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/activity_splash_screen.xml" value="0.136" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/comment_item.xml" value="0.264" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/departments_dropdown_items.xml" value="0.21240942028985507" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/event_card.xml" value="0.22146739130434784" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/post_item.xml" value="0.12" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/progress_dialog.xml" value="0.4" />
+        <entry key="..\:/anyth/appevent/app/src/main/res/layout/userinfodp_item.xml" value="0.21240942028985507" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22146739130434784" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

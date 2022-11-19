@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VFXmob</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_heading">find amazing events happning around you.</string>
+    <string name="dashboard_subtitle">480 events around you </string>
+    <string name="search_bar_hint">search for an event... </string>
+    <string name="location">cité el amal 4 gabes</string>
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate v</string>
+
+</resources>
